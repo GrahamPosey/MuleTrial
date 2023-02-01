@@ -1,0 +1,15 @@
+classes/copado__*
+triggers/copado__*
+pages/copado__*
+
+datatableLwcFsc__*
+sf_com_apps__*
+sf_chttr_apps__*
+SIQCloud__*
+FinServFlowsExt__*
+sortablegrid__*
+OIQ__*
+FinServ__*
+*.project
+*.copado
+.copado/copado-config.json
